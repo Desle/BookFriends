@@ -1,0 +1,8 @@
+name: BookFriends
+main: com.desle.bookfriends.Main
+depend: [BookManager]
+author: Desle
+version: 1.0
+commands:
+  friends:
+  friend:
